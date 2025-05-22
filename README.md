@@ -26,5 +26,4 @@ Une application web simple en PHP qui affiche la météo actuelle d'une ville, e
 1. **Cloner le dépôt :**
 
 ```bash
-git clone https://github.com/votre-utilisateur/meteo-mobile.git
-cd meteo-mobile
+git clone https://github.com/hakimaaaa32/meteo1
